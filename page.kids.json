@@ -53,7 +53,7 @@
           "settings": {
             "fullWidth": false,
             "text": "Create Your Personalized kids' Coloring Book",
-            "url": "/products/mothers-day-coloring-book-for-mom",
+            "url": "/pages/create-your-book?product=screen-free-coloring-book-for-kids&variant=52411033092377&pages=32&min=30&max=34&cover_variant=51190340649241",
             "icon": "",
             "iconPosition": "icon--left",
             "wideButton": false,
@@ -131,7 +131,7 @@
           "type": "title",
           "settings": {
             "fullWidth": true,
-            "content": "Personalized Coloring Books for Mom — A Gift That Makes Her Feel Seen",
+            "content": "Personalized Coloring Books for Kids — Screen-Free Fun With Photos They Actually Recognize",
             "textColor": "rgba(0,0,0,0)",
             "fontFamily": "title",
             "fontSize": "medium"
@@ -142,7 +142,7 @@
           "settings": {
             "fullWidth": true,
             "maxBWidth": 100,
-            "content": "<p>A personalized gift for Mom made from your photos — her kids, grandkids, and favorite moments turned into a custom coloring book. The personalized gift for mom that makes her tear up, then sit down and color.</p>",
+            "content": "<p>A personalized coloring book for kids turns your family photos into custom coloring pages — their face, their dog, their whole world, on every page. It's the screen-free gift that makes a kid look up mid-scribble and shout, “That's me!”</p>",
             "detectLists": true,
             "textColor": "rgba(0,0,0,0)",
             "fontFamily": "base",
@@ -153,8 +153,8 @@
           "type": "button",
           "settings": {
             "fullWidth": true,
-            "text": "Create Mom's Coloring Book",
-            "url": "/products/mothers-day-coloring-book-for-mom",
+            "text": "Create Their Coloring Book",
+            "url": "/pages/create-your-book?product=screen-free-coloring-book-for-kids&variant=52411033092377&pages=32&min=30&max=34&cover_variant=51190340649241",
             "icon": "",
             "iconPosition": "icon--left",
             "wideButton": false,
@@ -198,12 +198,24 @@
         "verticalAlignment": "middle",
         "imagePosition": "right",
         "imageWidth": "6",
-        "image": "shopify://shop_images/mcw-hero-moms.jpg",
+        "image": "shopify://shop_images/kids.png",
         "image_url": "",
         "imageOverlayOpacity": 0,
         "imageOverlayColor": "#000000",
         "vertPaddingAccord": 12,
         "horPaddingAccord": 4
+      }
+    },
+    "section_before_after_kids": {
+      "type": "mcw-before-after",
+      "settings": {
+        "custom_id": "kids-before-after",
+        "product_handle": "screen-free-coloring-book-for-kids",
+        "heading": "What Is a Personalized Coloring Book for Kids?",
+        "subheading": "See the before & after",
+        "intro": "<p>The perfect screen-free gift and activity for the kids in your life. Here's how it works: you upload your favorite photos, we turn them into custom coloring pages, and we print and ship a finished book to your door.</p>",
+        "padding": 35,
+        "backgroundColor": "rgba(0,0,0,0)"
       }
     },
     "section_cta_zwHNWz": {
@@ -213,7 +225,7 @@
           "type": "title",
           "settings": {
             "fullWidth": true,
-            "content": "Why a Personalized Gift for Mom",
+            "content": "Why a Personalized Coloring Book for Kids",
             "textColor": "#ffffff",
             "fontFamily": "title",
             "fontSize": "medium"
@@ -223,7 +235,7 @@
           "type": "title",
           "settings": {
             "fullWidth": true,
-            "content": "Beats Flowers She'll Forget",
+            "content": "Beats One More Toy",
             "textColor": "#ffffff",
             "fontFamily": "title",
             "fontSize": "medium"
@@ -234,7 +246,7 @@
           "settings": {
             "fullWidth": true,
             "maxBWidth": 100,
-            "content": "<p>Moms say they want one thing: to feel remembered. A coloring book for mom made from your photos does exactly that — her people, her memories, on every page.</p><p>It's the personalized gift for mom that doesn't wilt or get re-gifted. She opens it, she gets emotional, and then she actually uses it.</p>",
+            "content": "<p>Here's what we noticed with our own kids: the second they spot themselves on a page, it stops being “a coloring book” and becomes <em>theirs</em>. Familiar faces and favorite memories pull them in — and keep them there.</p><p>It's creative, screen-free time you don't have to talk anyone into. A personalized gift for kids that gets used, not shelved.</p>",
             "detectLists": true,
             "textColor": "#ffffff",
             "fontFamily": "base",
@@ -296,51 +308,51 @@
           "type": "columnImage",
           "settings": {
             "imageSize": 100,
-            "heading": "<p>She Feels Seen</p>",
-            "content": "<p>A personalized gift for mom says “I know you, I paid attention.” Her kids and grandkids on every page — that's what gets the happy tears.</p>",
+            "heading": "<p>They Recognize Every Page</p>",
+            "content": "<p>There's a moment when a kid opens their book and realizes the pictures are <em>them</em> — their face, their family, their dog. “That's me!” That moment is the whole reason we built this.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
             "buttonType": "filled",
-            "image": "shopify://shop_images/mcw-bf-moms-1.jpg"
+            "image": "shopify://shop_images/mcw-bf-kids-1.jpg"
           }
         },
         "column_image_WXzAxr": {
           "type": "columnImage",
           "settings": {
             "imageSize": 100,
-            "heading": "<p>An Activity, Not Just a Gift</p>",
-            "content": "<p>A coloring book for mom is something she does, not something that sits on a shelf. Screen-free, calming, and hers.</p>",
+            "heading": "<p>Screen-Free, Genuinely</p>",
+            "content": "<p>A personalized coloring book for kids trades screen time for creative time — and because the pictures are their own family, they stay with it far longer than any generic coloring book.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
             "buttonType": "filled",
-            "image": "shopify://shop_images/mcw-bf-moms-2.jpg"
+            "image": "shopify://shop_images/mcw-bf-kids-2.jpg"
           }
         },
         "column_image_JRHPbG": {
           "type": "columnImage",
           "settings": {
             "imageSize": 100,
-            "heading": "<p>Made From Your Photos</p>",
-            "content": "<p>Upload the family photos that matter and we turn them into custom coloring pages — the personalized gift for mom no store can sell.</p>",
+            "heading": "<p>No Batteries, No Clutter</p>",
+            "content": "<p>No app, no charging, no tiny pieces underfoot at 2am. Just a personalized gift for kids that actually gets used — then quietly becomes a keepsake.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
             "buttonType": "filled",
-            "image": "shopify://shop_images/mcw-bf-moms-3.jpg"
+            "image": "shopify://shop_images/mcw-bf-kids-3.jpg"
           }
         },
         "column_image_N1v4Ax": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/mcw-bf-moms-4.jpg",
+            "image": "shopify://shop_images/mcw-bf-kids-4.jpg",
             "imageSize": 100,
-            "heading": "<p>Made to Keep</p>",
-            "content": "<p>Thick, lay-flat pages she'll keep on the coffee table. A personalized gift for mom that becomes a keepsake.</p>",
+            "heading": "<p>Party Favors They Keep</p>",
+            "content": "<p>Order in bulk for birthdays, holidays, and school events — coloring books for kids that go home and get used, not tossed in the goody-bag pile.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
@@ -351,10 +363,10 @@
         "column_image_N2v4Bx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/mcw-bf-moms-5.jpg",
+            "image": "shopify://shop_images/mcw-bf-kids-5.jpg",
             "imageSize": 100,
-            "heading": "<p>For Every Mom</p>",
-            "content": "<p>New moms, grandmas, the mom who has everything — a coloring book for mom fits, because it's about her family.</p>",
+            "heading": "<p>Made for Ages 3 and Up</p>",
+            "content": "<p>Toddlers scribble over their own face; older kids color with care. A personalized coloring book for kids works at every age because the pages are personal — each child meets it at their own level.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
@@ -365,10 +377,10 @@
         "column_image_N3v4Cx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/mcw-bf-moms-6.jpg",
+            "image": "shopify://shop_images/mcw-bf-kids-6.jpg",
             "imageSize": 100,
-            "heading": "<p>Grandkids &amp; Pets Too</p>",
-            "content": "<p>Add the grandkids and the family pet — usually the first pages she turns to.</p>",
+            "heading": "<p>The Family Pet Gets Pages Too</p>",
+            "content": "<p>“That's my dog!” Add the family pet and watch those become the first pages they flip to.</p>",
             "buttonText": "",
             "buttonURL": "",
             "openTab": false,
@@ -438,8 +450,8 @@
           "settings": {
             "image": "shopify://shop_images/How_to_1.png",
             "imageSize": 100,
-            "heading": "<h3>Step 1: Pick the Book Size</h3>",
-            "content": "<p>Choose 20, 32, or 40 pages for your coloring book for mom.</p>",
+            "heading": "<h3>Step 1: Pick Your Book Size</h3>",
+            "content": "<p>Choose 20, 32, or 40 pages for your personalized coloring book for kids.</p>",
             "buttonText": "Choose Your Size",
             "buttonURL": "shopify://collections/frontpage",
             "openTab": false,
@@ -452,9 +464,9 @@
           "settings": {
             "image": "shopify://shop_images/How_to_2.png",
             "imageSize": 100,
-            "heading": "<h3>Step 2: Upload Family Photos</h3>",
-            "content": "<p>Kids, grandkids, pets, favorite moments — upload them and our AI turns each into a coloring page. Then a real designer reviews every single page.</p>",
-            "buttonText": " Upload Your Photos",
+            "heading": "<h3>Step 2: Upload Your Photos</h3>",
+            "content": "<p>Family, friends, pets, the big trip — upload them and our AI turns each one into a coloring page. Then a real designer reviews every single page.</p>",
+            "buttonText": "Upload Your Photos",
             "buttonURL": "shopify://collections/frontpage",
             "openTab": false,
             "buttonStyle": "primary",
@@ -467,8 +479,8 @@
             "image": "shopify://shop_images/5_82452436-ee00-4da2-a547-ad8dba6b897c.png",
             "imageSize": 100,
             "heading": "<h3>Step 3: We Print &amp; Ship</h3>",
-            "content": "<p>Her coloring book arrives on thick, marker-friendly paper — a personalized gift for mom, delivered to her door.</p>",
-            "buttonText": " Place Your Order",
+            "content": "<p>Your coloring book for kids arrives on thick, marker-friendly paper. Screen-free fun, delivered to your door.</p>",
+            "buttonText": "Place Your Order",
             "buttonURL": "shopify://collections/frontpage",
             "openTab": false,
             "buttonStyle": "primary",
@@ -502,7 +514,7 @@
         "contentColor": "rgba(0,0,0,0)",
         "horizontalAlignment": "center",
         "verticalAlignment": "top",
-        "heading": "<p>Create Mom's Coloring Book in 3 Simple Steps</p>",
+        "heading": "<p>Create Your Coloring Book in 3 Simple Steps</p>",
         "headingColor": "rgba(0,0,0,0)",
         "subheading": "",
         "subheadingColor": "rgba(0,0,0,0)",
@@ -533,7 +545,7 @@
           "type": "title",
           "settings": {
             "fullWidth": true,
-            "content": "What's Inside a Personalized Coloring Book for Mom",
+            "content": "What's Inside a Personalized Coloring Book for Kids",
             "textColor": "#ffffff",
             "fontFamily": "title",
             "fontSize": "medium"
@@ -568,7 +580,7 @@
           "settings": {
             "fullWidth": true,
             "text": "Start Creating",
-            "url": "/products/mothers-day-coloring-book-for-mom",
+            "url": "/pages/create-your-book?product=screen-free-coloring-book-for-kids&variant=52411033092377&pages=32&min=30&max=34&cover_variant=51190340649241",
             "icon": "",
             "iconPosition": "icon--left",
             "wideButton": false,
@@ -625,24 +637,9 @@
     "section_columns_9Qh9EV": {
       "type": "section__columns",
       "blocks": {
-        "persona_kids": {
-          "type": "columnImage",
-          "settings": {
-            "image": "",
-            "imageSize": 100,
-            "heading": "<p>Kids</p>",
-            "content": "<p>Their face, their pets, their whole world — screen-free fun they actually recognize.</p>",
-            "buttonText": "Shop for Kids",
-            "buttonURL": "/pages/personalized-coloring-books-for-kids",
-            "openTab": false,
-            "buttonStyle": "secondary",
-            "buttonType": "text"
-          }
-        },
         "persona_adults": {
           "type": "columnImage",
           "settings": {
-            "image": "",
             "imageSize": 100,
             "heading": "<p>Adults</p>",
             "content": "<p>A mindful, nostalgic coloring book made from your own photos.</p>",
@@ -653,10 +650,22 @@
             "buttonType": "text"
           }
         },
+        "persona_mom": {
+          "type": "columnImage",
+          "settings": {
+            "imageSize": 100,
+            "heading": "<p>Moms</p>",
+            "content": "<p>A gift that makes Mom feel seen — her people, on every page.</p>",
+            "buttonText": "Shop for Moms",
+            "buttonURL": "/pages/personalized-coloring-books-for-mom",
+            "openTab": false,
+            "buttonStyle": "secondary",
+            "buttonType": "text"
+          }
+        },
         "persona_dad": {
           "type": "columnImage",
           "settings": {
-            "image": "",
             "imageSize": 100,
             "heading": "<p>Dads</p>",
             "content": "<p>An easy win for Dad — the whole family, in a book he'll keep.</p>",
@@ -670,7 +679,6 @@
         "persona_grandparents": {
           "type": "columnImage",
           "settings": {
-            "image": "",
             "imageSize": 100,
             "heading": "<p>Grandparents</p>",
             "content": "<p>Family moments grandparents can color and treasure.</p>",
@@ -684,7 +692,6 @@
         "persona_pet_lovers": {
           "type": "columnImage",
           "settings": {
-            "image": "",
             "imageSize": 100,
             "heading": "<p>Pet Lovers</p>",
             "content": "<p>Their best friend, turned into pages worth framing.</p>",
@@ -698,7 +705,6 @@
         "persona_couples": {
           "type": "columnImage",
           "settings": {
-            "image": "",
             "imageSize": 100,
             "heading": "<p>Couples</p>",
             "content": "<p>Your story together — trips, date nights and all — ready to color in.</p>",
@@ -711,8 +717,8 @@
         }
       },
       "block_order": [
-        "persona_kids",
         "persona_adults",
+        "persona_mom",
         "persona_dad",
         "persona_grandparents",
         "persona_pet_lovers",
@@ -742,7 +748,7 @@
         "contentColor": "rgba(0,0,0,0)",
         "horizontalAlignment": "center",
         "verticalAlignment": "middle",
-        "heading": "<p>Shopping for Someone Else? Coloring Books for Everyone You Love</p>",
+        "heading": "Shopping for Someone Else? Coloring Books for Everyone You Love",
         "headingColor": "rgba(0,0,0,0)",
         "subheading": "SHOP BY WHO IT'S FOR",
         "subheadingColor": "rgba(0,0,0,0)",
@@ -773,7 +779,7 @@
           "type": "title",
           "settings": {
             "fullWidth": true,
-            "content": "Why Families Love Our Personalized Gifts for Mom",
+            "content": "Why Families Love Our Personalized Coloring Books for Kids",
             "textColor": "rgba(0,0,0,0)",
             "fontFamily": "title",
             "fontSize": "medium"
@@ -784,7 +790,7 @@
           "settings": {
             "fullWidth": true,
             "maxBWidth": 100,
-            "content": "<p>People come back to our coloring book for mom because it lands every time — her own family, turned into pages she wants to sit down with.</p><p>Our AI keeps faces recognizable (so she knows exactly who's who), a real designer checks every page, and we print on thick paper that handles markers without bleeding through.</p><p>Personal, emotional, and made to keep — that's the personalized gift for mom people reorder.</p>",
+            "content": "<p>Parents and grandparents come back to our personalized coloring books for kids because they're not one more thing that ends up in the bin. Every page is the child's own world — their face, their pets, the people they love — turned into something they want to color again and again.</p><p>Our AI is built to keep faces recognizable (so kids shout “that's me!”), a real designer checks every page, and we print on thick paper that takes crayons, markers, and colored pencils without bleeding through.</p><p>Screen-free, creative, personal. That's why families keep reordering.</p>",
             "detectLists": true,
             "textColor": "rgba(0,0,0,0)",
             "fontFamily": "base",
@@ -811,8 +817,8 @@
           "type": "button",
           "settings": {
             "fullWidth": true,
-            "text": "Shop Gifts for Mom",
-            "url": "shopify://collections/gifts-for-mom",
+            "text": "Shop Kids' Coloring Books",
+            "url": "shopify://collections/coloring-books-for-kids",
             "icon": "",
             "iconPosition": "icon--left",
             "wideButton": false,
@@ -1077,7 +1083,7 @@
         "height": 0,
         "padding": 0,
         "backgroundColor": "rgba(0,0,0,0)",
-        "heading": "<p>What People Say About Our Gifts for Mom</p>",
+        "heading": "<p>What Parents Say About Our Coloring Books for Kids</p>",
         "headingColor": "rgba(0,0,0,0)",
         "subheading": "TESTIMONIAL",
         "subheadingColor": "#fb046f",
@@ -1110,6 +1116,43 @@
         "productCardMobile": 1
       }
     },
+    "section_featured_collection_kids": {
+      "type": "section__featured-collection",
+      "settings": {
+        "custom_id": "kids-featured-collection",
+        "displayFor": "display--both",
+        "layout": "default",
+        "nomargin": false,
+        "scopedCSS": "",
+        "height": 0,
+        "padding": 35,
+        "backgroundColor": "rgba(0,0,0,0)",
+        "heading": "Shop Personalized Coloring Books for Kids",
+        "headingColor": "rgba(0,0,0,0)",
+        "subheading": "FOR KIDS",
+        "subheadingColor": "rgba(0,0,0,0)",
+        "subheadingPosition": "above",
+        "headingAlignment": "center",
+        "collection": "coloring-books-for-kids",
+        "productCount": 12,
+        "showMore": true,
+        "showMoreText": "See all kids' coloring books",
+        "showMoreAlignment": "center",
+        "enableCarousel": true,
+        "enableAutoplay": false,
+        "slideSpeed": 3,
+        "spaceBetween": 30,
+        "enableDragging": true,
+        "enablePagination": true,
+        "enableAutoHeight": false,
+        "buttonDisplayFor": "hide-mobile",
+        "productCardDesktop": 4,
+        "productCardTablet": 2,
+        "productCardMobile": 2,
+        "cardDesktop": "default",
+        "cardMobile": "default"
+      }
+    },
     "section_faq_4yfu6G": {
       "type": "section__faq",
       "blocks": {
@@ -1117,31 +1160,32 @@
           "type": "accordion",
           "settings": {
             "openAccordion": true,
-            "question": "<p>What's a good personalized gift for mom?</p>",
-            "answer": "<p>A personalized coloring book made from your photos. Her kids, grandkids, and favorite moments become custom coloring pages — a personalized gift for mom that's emotional to open and relaxing to use.</p>"
+            "question": "<p>What's a good screen-free gift for kids?</p>",
+            "answer": "<p>A personalized coloring book for kids made from your own family photos. They love seeing themselves, their friends, and their pets on every page — so it actually holds their attention. A screen-free gift parents end up loving as much as the kids do.</p>"
           }
         },
         "accordion_DU3Jq8": {
           "type": "accordion",
           "settings": {
             "openAccordion": false,
-            "question": "<p>Why is a coloring book for mom better than flowers?</p>",
-            "answer": "<p>Flowers fade; this stays. A coloring book for mom is personal, screen-free, and something she keeps — a gift she'll still have years later.</p>"
+            "question": "<p>What ages do personalized coloring books for kids work for?</p>",
+            "answer": "<p>Ours work from about age 3 to 12 and up. Toddlers love the familiar faces, school-age kids love the detail, and older kids love that the pages are genuinely theirs.</p>"
           }
         },
         "accordion_3WDpSV": {
           "type": "accordion",
           "settings": {
             "openAccordion": false,
-            "question": "<p>How many photos do I need for mom's coloring book?</p>",
-            "answer": "<p>Enough to fill the size you choose (20, 32, or 40 pages). Upload your favorite family photos and we turn each into a coloring page, reviewed by a real designer.</p>"
+            "question": "<p>Can I order coloring books for kids in bulk for a party?</p>",
+            "answer": "<p>Yes. They make great birthday, classroom, and family-reunion favors — a screen-free gift every kid takes home. Email hello@mycolorfulworld.art and we'll sort out group pricing.</p>"
           }
         },
         "accordion_kids_faq4": {
           "type": "accordion",
           "settings": {
-            "question": "<p>Can I include grandkids and pets in mom's book?</p>",
-            "answer": "<p>Please do — grandkids and the family pet are the pages most moms turn to first. Upload them right alongside everyone else.</p>"
+            "openAccordion": false,
+            "question": "<p>Can I include our pet in a kids' coloring book?</p>",
+            "answer": "<p>Please do — kids light up when their dog or cat shows up on a page. Upload pet photos right alongside the family ones; it's screen-free fun that writes itself.</p>"
           }
         }
       },
@@ -1183,90 +1227,6 @@
         "vertPaddingAccord": 12,
         "horPaddingAccord": 4
       }
-    },
-    "section_featured_collection_kids": {
-      "type": "section__featured-collection",
-      "settings": {
-        "custom_id": "kids-featured-collection",
-        "displayFor": "display--both",
-        "layout": "default",
-        "nomargin": false,
-        "height": 0,
-        "padding": 35,
-        "backgroundColor": "rgba(0,0,0,0)",
-        "heading": "Shop Personalized Coloring Books for Mom",
-        "headingColor": "rgba(0,0,0,0)",
-        "subheading": "FOR MOM",
-        "subheadingColor": "rgba(0,0,0,0)",
-        "subheadingPosition": "above",
-        "headingAlignment": "center",
-        "collection": "gifts-for-mom",
-        "productCount": 12,
-        "showMore": true,
-        "showMoreText": "See all gifts for mom",
-        "showMoreAlignment": "center",
-        "enableCarousel": true,
-        "enableAutoplay": false,
-        "slideSpeed": 3,
-        "spaceBetween": 30,
-        "enableDragging": true,
-        "enablePagination": true,
-        "enableAutoHeight": false,
-        "buttonDisplayFor": "hide-mobile",
-        "productCardDesktop": 4,
-        "productCardTablet": 2,
-        "productCardMobile": 2,
-        "cardDesktop": "default",
-        "cardMobile": "default"
-      }
-    },
-    "section_before_after_kids": {
-      "type": "mcw-before-after",
-      "settings": {
-        "custom_id": "kids-before-after",
-        "heading": "What Is a Personalized Coloring Book for Mom?",
-        "subheading": "See the before & after",
-        "padding": 35,
-        "backgroundColor": "rgba(0,0,0,0)",
-        "intro": "<p>A personalized gift for Mom — and an activity she'll actually enjoy. Here's how it works: you upload your favorite photos, we turn them into custom coloring pages, and we print and ship a finished book to her door.</p>",
-        "product_handle": "mothers-day-coloring-book-for-mom"
-      }
-    },
-    "section_featured_collection_related": {
-      "type": "section__featured-collection",
-      "settings": {
-        "custom_id": "mom-related-collection",
-        "displayFor": "display--both",
-        "layout": "default",
-        "nomargin": false,
-        "height": 0,
-        "padding": 35,
-        "backgroundColor": "rgba(0,0,0,0)",
-        "heading": "More Gifts She'll Love",
-        "headingColor": "rgba(0,0,0,0)",
-        "subheading": "YOU MIGHT ALSO LIKE",
-        "subheadingColor": "rgba(0,0,0,0)",
-        "subheadingPosition": "above",
-        "headingAlignment": "center",
-        "collection": "gifts-for-her",
-        "productCount": 8,
-        "showMore": true,
-        "showMoreText": "See more",
-        "showMoreAlignment": "center",
-        "enableCarousel": true,
-        "enableAutoplay": false,
-        "slideSpeed": 3,
-        "spaceBetween": 30,
-        "enableDragging": true,
-        "enablePagination": true,
-        "enableAutoHeight": false,
-        "buttonDisplayFor": "hide-mobile",
-        "productCardDesktop": 4,
-        "productCardTablet": 2,
-        "productCardMobile": 2,
-        "cardDesktop": "default",
-        "cardMobile": "default"
-      }
     }
   },
   "order": [
@@ -1283,7 +1243,6 @@
     "section_image_text_yHgpzP",
     "section_testimonials_X9fKp2",
     "section_featured_collection_kids",
-    "section_featured_collection_related",
     "section_faq_4yfu6G"
   ]
 }

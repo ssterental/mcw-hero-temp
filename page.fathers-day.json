@@ -314,7 +314,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-1.jpg"
           }
         },
         "column_image_WXzAxr": {
@@ -327,7 +328,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-2.jpg"
           }
         },
         "column_image_JRHPbG": {
@@ -340,13 +342,14 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-3.jpg"
           }
         },
         "column_image_N1v4Ax": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_gjgxr4gjgxr4gjgx_b0e01d85-6f03-4bda-864c-db4775b62353.png",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-4.jpg",
             "imageSize": 100,
             "heading": "<p>Made to Keep</p>",
             "content": "<p>Thick, lay-flat pages built to last. A Father's Day coloring book that becomes a keepsake, not clutter.</p>",
@@ -360,7 +363,7 @@
         "column_image_N2v4Bx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Custom_Coloring_Book_from_Photos.jpg",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-5.jpg",
             "imageSize": 100,
             "heading": "<p>For Every Dad &amp; Grandpa</p>",
             "content": "<p>New dads, granddads, the dad who has everything — a personalized Father's Day gift fits, because it's about his family.</p>",
@@ -374,7 +377,7 @@
         "column_image_N3v4Cx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/5_82452436-ee00-4da2-a547-ad8dba6b897c.png",
+            "image": "shopify://shop_images/mcw-bf-fathers-day-6.jpg",
             "imageSize": 100,
             "heading": "<p>The Dog Gets Pages Too</p>",
             "content": "<p>Add the family dog — often the first page he turns to.</p>",

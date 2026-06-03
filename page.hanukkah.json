@@ -314,7 +314,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-1.jpg"
           }
         },
         "column_image_WXzAxr": {
@@ -327,7 +328,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-2.jpg"
           }
         },
         "column_image_JRHPbG": {
@@ -340,13 +342,14 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-3.jpg"
           }
         },
         "column_image_N1v4Ax": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_gjgxr4gjgxr4gjgx_b0e01d85-6f03-4bda-864c-db4775b62353.png",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-4.jpg",
             "imageSize": 100,
             "heading": "<p>Made to Keep</p>",
             "content": "<p>Thick, lay-flat pages built to last — a Hanukkah keepsake you bring out year after year.</p>",
@@ -360,7 +363,7 @@
         "column_image_N2v4Bx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Custom_Coloring_Book_from_Photos.jpg",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-5.jpg",
             "imageSize": 100,
             "heading": "<p>For Kids &amp; Grandparents</p>",
             "content": "<p>A personalized Hanukkah gift the whole family shares — grandkids and grandparents at the same table.</p>",
@@ -374,7 +377,7 @@
         "column_image_N3v4Cx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/5_82452436-ee00-4da2-a547-ad8dba6b897c.png",
+            "image": "shopify://shop_images/mcw-bf-hanukkah-6.jpg",
             "imageSize": 100,
             "heading": "<p>The Family Pet Too</p>",
             "content": "<p>Add the family pet — a favorite page for the little ones.</p>",

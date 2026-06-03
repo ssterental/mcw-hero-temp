@@ -314,7 +314,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-wedding-1.jpg"
           }
         },
         "column_image_WXzAxr": {
@@ -327,7 +328,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-wedding-2.jpg"
           }
         },
         "column_image_JRHPbG": {
@@ -340,13 +342,14 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-wedding-3.jpg"
           }
         },
         "column_image_N1v4Ax": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_gjgxr4gjgxr4gjgx_b0e01d85-6f03-4bda-864c-db4775b62353.png",
+            "image": "shopify://shop_images/mcw-bf-wedding-4.jpg",
             "imageSize": 100,
             "heading": "<p>A Guest-Book Alternative</p>",
             "content": "<p>A personalized wedding gift guests can color and sign — a memorable twist on the traditional guest book.</p>",
@@ -360,7 +363,7 @@
         "column_image_N2v4Bx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Custom_Coloring_Book_from_Photos.jpg",
+            "image": "shopify://shop_images/mcw-bf-wedding-5.jpg",
             "imageSize": 100,
             "heading": "<p>For Newlyweds &amp; Anniversaries</p>",
             "content": "<p>A wedding coloring book works for the big day and every anniversary after — because it's your story.</p>",
@@ -374,7 +377,7 @@
         "column_image_N3v4Cx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/5_82452436-ee00-4da2-a547-ad8dba6b897c.png",
+            "image": "shopify://shop_images/mcw-bf-wedding-6.jpg",
             "imageSize": 100,
             "heading": "<p>The Whole Wedding Party</p>",
             "content": "<p>Add the bridal party, the families, even the dog in the bow tie — everyone who made the day.</p>",

@@ -314,7 +314,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-1.jpg"
           }
         },
         "column_image_WXzAxr": {
@@ -327,7 +328,8 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-2.jpg"
           }
         },
         "column_image_JRHPbG": {
@@ -340,13 +342,14 @@
             "buttonURL": "",
             "openTab": false,
             "buttonStyle": "secondary",
-            "buttonType": "filled"
+            "buttonType": "filled",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-3.jpg"
           }
         },
         "column_image_N1v4Ax": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_gjgxr4gjgxr4gjgx_b0e01d85-6f03-4bda-864c-db4775b62353.png",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-4.jpg",
             "imageSize": 100,
             "heading": "<p>Order for the Whole Crew</p>",
             "content": "<p>Bulk-order personalized bachelorette party favors so everyone gets their own copy to keep.</p>",
@@ -360,7 +363,7 @@
         "column_image_N2v4Bx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/Custom_Coloring_Book_from_Photos.jpg",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-5.jpg",
             "imageSize": 100,
             "heading": "<p>Made to Keep</p>",
             "content": "<p>Thick, lay-flat pages built to last — a bachelorette coloring book that becomes a keepsake of the trip.</p>",
@@ -374,7 +377,7 @@
         "column_image_N3v4Cx": {
           "type": "columnImage",
           "settings": {
-            "image": "shopify://shop_images/5_82452436-ee00-4da2-a547-ad8dba6b897c.png",
+            "image": "shopify://shop_images/mcw-bf-bachelorette-6.jpg",
             "imageSize": 100,
             "heading": "<p>As Tame or Wild as You Want</p>",
             "content": "<p>Keep it sweet or make it cheeky — you pick the photos, we make the pages.</p>",
